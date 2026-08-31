@@ -35,6 +35,10 @@
 * [Wishlist Section On Any Page](wishlist-section-on-any-page.md)
 * [Customise Wishlist Rules for Specific Products](customise-wishlist-rules-for-specific-products.md)
 * [Print Add to Wishlist QR Codes](print-add-to-wishlist-qr-codes.md)
+* [Shopify Flow](shopify-flow/README.md)
+  * [Flow Triggers Reference](shopify-flow/flow-triggers-reference.md)
+  * [Set Up Wishlist Alerts](shopify-flow/set-up-wishlist-alerts.md)
+  * [Flow Templates](shopify-flow/flow-templates.md)
 
 ## Integrations
 
